@@ -7,3 +7,9 @@ This section demonstrates my understanding of:
 - Third-party risk management
 
 Projects here focus on documentation, analysis, and decision-making rather than coding.
+
+## Skills Demonstrated
+- Risk assessment and analysis
+- Policy drafting
+- Compliance framework mapping
+- Third-party risk evaluation
