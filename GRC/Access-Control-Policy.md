@@ -22,3 +22,6 @@ This policy applies to all employees, contractors, and third parties with access
 
 ## Enforcement
 Violations of this policy may result in disciplinary action up to and including termination.
+
+## Why This Matters
+This policy supports compliance requirements and reduces the risk of unauthorized access to sensitive data.
