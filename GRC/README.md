@@ -13,3 +13,9 @@ Projects here focus on documentation, analysis, and decision-making rather than 
 - Policy drafting
 - Compliance framework mapping
 - Third-party risk evaluation
+
+### Cyber Risk Quantification (NIST CSF)
+
+- [Project Overview](./Cyber-Risk-Quantification/README.md)
+- [Risk Scenario Analysis](./Cyber-Risk-Quantification/Risk-Scenario-Analysis.md)
+- [Risk Quantification Model](./Cyber-Risk-Quantification/Risk-Quantification-Model.md)
