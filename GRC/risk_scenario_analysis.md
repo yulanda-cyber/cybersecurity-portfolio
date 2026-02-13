@@ -45,7 +45,8 @@ Total Exposure	$400,000 – $1.5M
 
 ## Quantifying Risk Using Annualized Loss Expectancy (ALE)
 
-To estimate potential financial exposure, the Annualized Loss Expectancy (ALE) model can be applied.
+To estimate potential financial exposure, and translate this scenario into measurable business impact, the Annualized Loss Expectancy (ALE) model can be applied.
+
 
 ### Formula
 
