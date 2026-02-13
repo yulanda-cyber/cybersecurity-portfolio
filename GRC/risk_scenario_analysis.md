@@ -1,3 +1,8 @@
+# Cyber Risk Quantification Using NIST CSF
+## Scenario-Based Financial Risk Modeling
+
+
+
 Scenario: Ransomware Attack on Healthcare Organization
 Threat Event
 
@@ -31,5 +36,10 @@ IR & Recovery	$100,000 – $400,000
 Total Exposure	$400,000 – $1.5M
 
 
+## Key Takeaways
+
+- Quantified cyber risk must reflect business impact, not just technical severity.
+- Financial exposure should be modeled in ranges to account for uncertainty.
+- Risk quantification supports executive decision-making and control prioritization.
 
 
